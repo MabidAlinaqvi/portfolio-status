@@ -9,6 +9,7 @@ Update this file whenever something is deployed, taken down, or moves to a new h
 | 123 & ABC Kids Tracing | [abc-tracing](https://github.com/MabidAlinaqvi/abc-tracing) | Android (Flutter) | TBD | TBD | Not yet published; add Play Store / APK download link when live. |
 | Recoil Dungeon | [recoildungeon](https://github.com/MabidAlinaqvi/recoildungeon) | Android (Unity) | TBD | TBD | Not yet published; add Play Store / APK download link when live. |
 | Wireless KVM | [WirelessKVM](https://github.com/MabidAlinaqvi/wirelessKVM) | Desktop (Windows/.NET) + Android | TBD | TBD | Early slice, not a public release yet; add download link when live. |
+| Little Explorers | [little-exproral](https://github.com/MabidAlinaqvi/little-exproral) | Web (static HTML/JS) + Android (Capacitor) | TBD | TBD | Local folder was `ChildWeb`, now cloned alongside the others as `little-exproral`. Static site needs no build; add the public URL and/or Play Store link once deployed. |
 
 ## Legend
 
